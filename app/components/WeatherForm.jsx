@@ -1,4 +1,4 @@
-var React = require("react");
+var React = require('react');
 
 var WeatherForm = React.createClass({
   onFormSubmit: function (e) {
